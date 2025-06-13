@@ -292,6 +292,9 @@ jobs:
           override_sens \
           now_line \
           profiles \
+          future_carbs_4h \
+          negative_insulin \
+          meal_days \
           live_activity
           
 
